@@ -34,10 +34,6 @@ Amuse es una propuesta web creada para facilitar la distribución musical y prom
    ```
 3. Abre el archivo `index.html` en tu navegador para visualizar el proyecto.
 
-## Capturas de pantalla
-
-- [Capturas de pantalla opcionales aquí]
-
 ## Contribución
 
 Si deseas contribuir al proyecto:
@@ -61,4 +57,3 @@ DWN2AP | Turno Noche | Año 2023
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
