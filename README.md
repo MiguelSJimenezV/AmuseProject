@@ -26,13 +26,17 @@ Amuse es una propuesta web creada para facilitar la distribución musical y prom
 
 1. Clona el repositorio en tu equipo local:
    ```bash
-   git clone https://github.com/MiguelSJimenezV/AmuseProject.git
+   git clone https://github.com/tuusuario/amuse-plataforma-musical.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
    cd amuse-plataforma-musical
    ```
 3. Abre el archivo `index.html` en tu navegador para visualizar el proyecto.
+
+## Capturas de pantalla
+
+- [Capturas de pantalla opcionales aquí]
 
 ## Contribución
 
